@@ -37,7 +37,7 @@ class ComparatorTemp implements Comparator<City>{
 public class Main {
 public static City getTempAndNameById(String id) {
 Gson gson = new Gson();
-String API_URL = "https://api.openweathermap.org/data/2.5/weather?id="+id+"&appid=f12f348483ae8c586043f670f11faa8d&units=metric";
+String API_URL = "https://api.openweathermap.org/data/2.5/weather?id="+id+"&appid=4fb3c225bcd1eb7f17ee13c0fa0cc8d3&units=metric";
 City city = new City();
 try {
 URL url = new URL(API_URL);
