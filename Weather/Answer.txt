@@ -1,0 +1,11 @@
+Barcelona	20.77
+Kazan’	19.0
+Yaroslavl	18.0
+Stockholm	16.96
+Vladivostok	16.0
+Amsterdam	15.1
+London	14.87
+Moscow	11.46
+Tomsk Oblast	9.97
+Shelekhov	9.0
+Krasnoyarsk	8.0
