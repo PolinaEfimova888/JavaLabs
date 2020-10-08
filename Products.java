@@ -24,7 +24,7 @@ public class Main {
 
             if (customers.containsKey(name)){
                 products = customers.get(name);
-                System.out.println(products+":");
+                //System.out.println(products+":");
                 if(products.containsKey(productName)){
                     productCount+=products.get(productName);
                     products.put(productName,productCount);
